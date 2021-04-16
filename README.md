@@ -1,2 +1,2 @@
 # Capg-Labbook
-This is labbook of Rashi Goenka.
+This is the labbook of Rashi Goenka.
